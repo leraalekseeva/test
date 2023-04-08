@@ -2,6 +2,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
 df = pd.read_csv('suevey.csv')
 # https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 
